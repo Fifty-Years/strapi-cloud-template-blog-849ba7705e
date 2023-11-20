@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_coda_page_cards",
+  "info": {
+    "displayName": "Card",
+    "icon": "server"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "URL": {
+      "type": "string"
+    }
+  }
+}
