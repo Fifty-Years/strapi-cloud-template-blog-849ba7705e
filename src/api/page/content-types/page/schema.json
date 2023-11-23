@@ -53,7 +53,8 @@
     },
     "slug": {
       "type": "uid",
-      "targetField": "name"
+      "targetField": "name",
+      "required": true
     },
     "coda_blocks": {
       "type": "dynamiczone",
