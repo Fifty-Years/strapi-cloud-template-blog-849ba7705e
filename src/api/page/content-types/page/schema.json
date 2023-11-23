@@ -51,14 +51,16 @@
       "target": "api::page.page",
       "mappedBy": "parent"
     },
-    "card": {
-      "type": "component",
-      "repeatable": true,
-      "component": "coda-page.card"
-    },
     "slug": {
       "type": "uid",
-      "targetField": "name"
+      "targetField": "name",
+      "required": true
+    },
+    "coda_blocks": {
+      "type": "dynamiczone",
+      "components": [
+        "coda-page.card"
+      ]
     }
   }
 }
