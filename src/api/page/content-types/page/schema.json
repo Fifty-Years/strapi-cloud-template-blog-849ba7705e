@@ -61,6 +61,10 @@
       "components": [
         "coda-page.card"
       ]
+    },
+    "parent_unpublished": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
