@@ -29,6 +29,12 @@
       "type": "component",
       "repeatable": false,
       "component": "coda-page.chip"
+    },
+    "deal_access": {
+      "type": "richtext"
+    },
+    "deal_terms": {
+      "type": "richtext"
     }
   }
 }
