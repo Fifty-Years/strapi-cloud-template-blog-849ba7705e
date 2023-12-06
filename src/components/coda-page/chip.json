@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_coda_page_chips",
+  "info": {
+    "displayName": "Chip",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    }
+  }
+}
