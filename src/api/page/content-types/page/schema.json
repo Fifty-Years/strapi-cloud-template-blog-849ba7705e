@@ -69,6 +69,11 @@
     "hide_cards": {
       "type": "boolean",
       "default": false
+    },
+    "showInNav": {
+      "type": "boolean",
+      "default": false,
+      "required": true
     }
   }
 }
