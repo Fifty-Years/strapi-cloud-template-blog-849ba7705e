@@ -67,7 +67,8 @@
       "default": false
     },
     "hide_cards": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false
     }
   }
 }
