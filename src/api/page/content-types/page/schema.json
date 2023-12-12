@@ -70,7 +70,7 @@
       "type": "boolean",
       "default": false
     },
-    "showInNav": {
+    "show_in_nav": {
       "type": "boolean",
       "default": false,
       "required": true
