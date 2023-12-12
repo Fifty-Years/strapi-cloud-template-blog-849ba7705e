@@ -65,6 +65,9 @@
     "parent_unpublished": {
       "type": "boolean",
       "default": false
+    },
+    "hide_cards": {
+      "type": "boolean"
     }
   }
 }
